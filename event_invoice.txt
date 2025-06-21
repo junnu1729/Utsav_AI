@@ -1,0 +1,8 @@
+🧾 Event Invoice
+-----------------------------
+Catering (Standard): ₹25000
+Venue (Basic): ₹20000
+Entertainment (Basic): ₹5000
+-----------------------------
+Original Cost: ₹50000
+Final Cost: ₹50000
